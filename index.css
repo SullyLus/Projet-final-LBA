@@ -41,12 +41,12 @@ header ul{
     height: rem;
 }
 .rouge{
-    color: red;
+    color: brown;
 }
 .btrouge{
-    background-color: red;
+    background-color: brown;
     color: white;
-    border-radius: 20%;
+    border-radius: 10%;
     padding: 0.8rem;
 }
 nav ul{
@@ -171,7 +171,7 @@ form{
     background-size: cover;
     width: 8rem;  
     margin: 1rem;
-    border-radius: 20%;
+    
 }
 .pop{
     width: 30rem;
@@ -182,7 +182,7 @@ form{
     background-size: cover;
     width: 8rem;  
     margin: 1rem;
-    border-radius: 20%;
+    
 }
 .bloc8{
     background-image: url(/Src/img/bloc-8.jpeg);
@@ -190,7 +190,7 @@ form{
     background-size: cover;
     width: 8rem;  
     margin: 1rem;
-    border-radius: 20%;
+   
 }
 .bloc9{
     background-image: url(/Src/img/bloc-9.jpeg);
@@ -198,7 +198,7 @@ form{
     background-size: cover;
     width: 8rem;  
     margin: 1rem;
-    border-radius: 20%;
+    
 }
 .bloc10{
     background-image: url(/Src/img/bloc-10.jpeg);
@@ -206,7 +206,7 @@ form{
     background-size: cover;
     width: 8rem;  
     margin: 1rem;
-    border-radius: 20%;
+    
 }
 .bloc11{
     background-image: url(/Src/img/bloc-11.jpeg);
@@ -214,7 +214,7 @@ form{
     background-size: cover;
     width: 8rem;  
     margin: 1rem;
-    border-radius: 20%;
+    
 }
 
 
@@ -227,4 +227,10 @@ form{
 
 .pop2{
     display: flex;
+}
+.chifr{
+    font-size: 2.5rem;
+    font-weight: 400;
+    padding-top:3rem;
+    padding-right: 0.5rem;
 }
