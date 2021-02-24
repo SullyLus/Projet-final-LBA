@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:  'Cormorant Garamond', serif;
+    font-size: 1.15rem;
+}
+.bdy{
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-family: 'Staatliches', cursive;
+    font-weight: 500;
+    padding-top: 1rem;
+}
+li{
+    display: inline;
+    padding-right: 1rem;
+    padding-top:;
+    height: 2rem;
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 4rem;
+}
+header ul{
+    padding-top: 1.5rem;
+    height: rem;
+}
+.rouge{
+    color: red;
+}
+.btrouge{
+    background-color: red;
+    color: white;
+    border-radius: 20%;
+    padding: 0.8rem;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+}
+
+
+
+
+
+
+
+.sec1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 1.5rem;
+    flex-wrap: nowrap;
+}
+.bloc1{
+    background-image: url(/Src/img/bloc-1.jpeg);
+    height: 10rem;
+    background-size: cover;
+}
+.sec1 h2{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+h3{
+    padding-bottom: 0.8rem;
+    padding-top: 0.8rem;
+}
+.p2{
+    display: flex;
+    flex-direction: column;
+    
+}
+.bloc2flex{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1rem;
+}
+.bloc2{
+    background-image: url(/Src/img/bloc-2.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 15rem;
+}
+.bloc2 h2{
+    
+}
+.time{
+    padding-bottom: 1rem;
+}
+.sec1 div{
+    padding-left: 0.5rem;
+}
+.bloc3{
+    background-image: url(/Src/img/bloc-3.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 15rem;
+}
+.bloc4{
+    background-image: url(/Src/img/bloc-4.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 15rem;  
+}
+.bloc5{
+    background-image: url(/Src/img/bloc-5.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 100%; 
+    padding-bottom: 1rem;
+}
+
+
+
+
+
+
+
+
+.form{
+    background-color: rgb(207, 207, 207);
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(24, 24, 24);
+    color:rgb(209, 209, 209);
+    padding: 1rem;
+    border-radius: 10%;
+    font-size: 1rem;
+    font-weight: 1rem
+}
+form{
+    padding-top: ;
+}
+    
+
+
+
+
+.sec3{
+    display: flex;
+    flex-direction:;
+}
+.dry{
+    display: flex;
+}
+.gross{
+    width: 150rem;
+    padding-right: 1rem;
+}
+.bloc6{
+    background-image: url(/Src/img/bloc-6.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 8rem;  
+    margin: 1rem;
+    border-radius: 20%;
+}
+.pop{
+    width: 30rem;
+}
+.bloc7{
+    background-image: url(/Src/img/bloc-7.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 8rem;  
+    margin: 1rem;
+    border-radius: 20%;
+}
+.bloc8{
+    background-image: url(/Src/img/bloc-8.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 8rem;  
+    margin: 1rem;
+    border-radius: 20%;
+}
+.bloc9{
+    background-image: url(/Src/img/bloc-9.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 8rem;  
+    margin: 1rem;
+    border-radius: 20%;
+}
+.bloc10{
+    background-image: url(/Src/img/bloc-10.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 8rem;  
+    margin: 1rem;
+    border-radius: 20%;
+}
+.bloc11{
+    background-image: url(/Src/img/bloc-11.jpeg);
+    height: 10rem;
+    background-size: cover;
+    width: 8rem;  
+    margin: 1rem;
+    border-radius: 20%;
+}
+
+
+
+
+
+
+
+
+
+.pop2{
+    display: flex;
+}
